@@ -1,0 +1,1 @@
+Capstone Project for Math 10: Intro to Data Science Course. Deepnote link:https://deepnote.com/workspace/seths-workspace-d95b-d05df699-4948-4bf7-ae5b-8fbdb073acff/project/Countries-and-Air-Quality-fa131135-c354-4829-8196-b5850233cffe/notebook/CourseProject-87c3a4f7ba0a4cf392a5c016df476835
